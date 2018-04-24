@@ -1,0 +1,23 @@
+Hi class,
+
+Attached is the matlab code and data from today's lecture. Also attached is the latest grading rubric that
+Lauren will be using to grade your lab reports. Compared to the original lab handout, these are three main
+changes:
+
+1) Use Matlab instead of hand-drawn plots
+
+2) For all the data fitting and error estimation steps, fit a line to Load vs (1/L^2) instead of Load vs. L.
+Except for this change, all of the other instructions given in the report for calculating the best fit,
+standard deviations, etc., remain the same.
+
+3) Plot the data (Load vs. L) and best model fit for the Euler equation, and plot bounding curves. Refer to
+this figure in the discussion on dominant sources of error, considering both uncertainty in the test
+method and uncertainty in the various parameters in the model (Young's modulus, moment of inertia,
+reaction conditions.) Feel free to add more figures or bounding curves to strengthen your discussion.
+
+The lab due date has been extended to March 5 in class.
+
+Prof Schmidt
+
+p.s. I also made a folder for section C1 under course documents on blackboard, and posted the lecture
+notes on beam buckling
